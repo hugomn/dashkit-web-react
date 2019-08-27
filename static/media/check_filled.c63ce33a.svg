@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ICONS/16px/icon-circle-check-negative</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,0 C3.582,0 0,3.582 0,8 C0,12.418 3.582,16 8,16 C12.418,16 16,12.418 16,8 C16,3.582 12.418,0 8,0 Z M6.64666667,11.0793333 L3.716,8.14866667 L4.65866667,7.206 L6.646,9.194 L10.8226667,5.01733333 L11.7653333,5.96 L6.64666667,11.0793333 Z" id="path-1"></path>
+    </defs>
+    <g id="Log-in" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ICONS/16px/icon-circle-check-negative">
+            <g>
+                <rect id="bg" x="0" y="0" width="16" height="16"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="XMLID_5_" fill="#002937" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="COLORS/16px/Primary-3-|-1" mask="url(#mask-2)" fill="#0099CC">
+                    <rect x="0" y="0" width="16" height="16"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

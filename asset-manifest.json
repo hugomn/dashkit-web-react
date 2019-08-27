@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a340c955.chunk.js",
+    "main.js.map": "/static/js/main.a340c955.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.b1119605.chunk.css": "/static/css/2.b1119605.chunk.css",
+    "static/js/2.6218ee0b.chunk.js": "/static/js/2.6218ee0b.chunk.js",
+    "static/js/2.6218ee0b.chunk.js.map": "/static/js/2.6218ee0b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.90a726356495b9bd701ea29ea8bf9c12.js": "/precache-manifest.90a726356495b9bd701ea29ea8bf9c12.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b1119605.chunk.css.map": "/static/css/2.b1119605.chunk.css.map",
+    "static/media/alert.svg": "/static/media/alert.d7f50953.svg",
+    "static/media/check_filled.svg": "/static/media/check_filled.c63ce33a.svg",
+    "static/media/check_unfilled.svg": "/static/media/check_unfilled.e66f9e00.svg",
+    "static/media/empty-backlog.svg": "/static/media/empty-backlog.54a481ce.svg",
+    "static/media/logo-full.svg": "/static/media/logo-full.c3d845c0.svg",
+    "static/media/signout.svg": "/static/media/signout.a3887d56.svg",
+    "static/media/sort-down.a221aada.svg": "/static/media/sort-down.a221aada.svg"
+  }
+}
