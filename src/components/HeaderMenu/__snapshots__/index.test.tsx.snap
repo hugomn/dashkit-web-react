@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderMenu component hides the drop when clicking an item 1`] = `
+<div
+  class="StyledBox-sc-13pk1d4-0 etUtOO"
+>
+  <button
+    class="StyledButton-sc-323bzc-0 jfbKsv"
+    id="test-menu"
+    type="button"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 lgRCHI"
+    >
+      <span
+        class="sc-bwzfXH cJpiqs StyledText-sc-1sadyjn-0 bnqisW"
+      >
+        Test
+      </span>
+      <div
+        class="StyledBox__StyledBoxGap-sc-13pk1d4-1 iChEkS"
+      />
+      <div
+        class="sc-htpNat fmorob StyledBox-sc-13pk1d4-0 IRSNj"
+      >
+        <svg
+          aria-label="Down"
+          class="StyledIcon-ofa7kd-0 fjELgu"
+          viewBox="0 0 24 24"
+        >
+          <polyline
+            fill="none"
+            points="7.086 3.174 17.086 13.174 7.086 23.174"
+            stroke="#000"
+            stroke-width="2"
+            transform="scale(1 -1) rotate(-89 -1.32 0)"
+          />
+        </svg>
+      </div>
+    </div>
+  </button>
+</div>
+`;

@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Radio Card Group Displays a disabled card group 1`] = `
+<div>
+  <div
+    class="StyledBox-sc-13pk1d4-0 gmRjHO"
+    data-testid="radioCardGroup"
+  >
+    <div
+      class="StyledBox-sc-13pk1d4-0 bZTTyO"
+    >
+      <div
+        class="sc-bdVaJa bUODpI StyledBox-sc-13pk1d4-0 erxBvF"
+        data-testid="choice"
+        disabled=""
+      >
+        <label
+          class="StyledRadioButton__StyledRadioButtonContainer-g1f6ld-0 hgwIsh StyledBox-sc-13pk1d4-0 gQLnBt"
+          disabled=""
+        >
+          <div
+            class="StyledRadioButton-g1f6ld-4 gVogic StyledBox-sc-13pk1d4-0 kvuUVC"
+          >
+            <input
+              class="StyledRadioButton__StyledRadioButtonInput-g1f6ld-1 bldEoB"
+              data-testid="c1"
+              disabled=""
+              name="radio"
+              type="radio"
+              value="c1"
+            />
+            <div
+              class="StyledRadioButton__StyledRadioButtonBox-g1f6ld-3 lnEyXE StyledBox-sc-13pk1d4-0 ghGSYb"
+            />
+          </div>
+          <span>
+            Choice 1
+          </span>
+        </label>
+        <div
+          class="StyledBox-sc-13pk1d4-0 kFozry"
+        >
+          <span
+            class="StyledText-sc-1sadyjn-0 fWSbXS"
+          >
+            Lorem ipsum dolor sit amet, ei usu recteque constituto.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="StyledBox-sc-13pk1d4-0 bZTTyO"
+    >
+      <div
+        class="sc-bdVaJa bUODpI StyledBox-sc-13pk1d4-0 erxBvF"
+        data-testid="choice"
+        disabled=""
+      >
+        <label
+          class="StyledRadioButton__StyledRadioButtonContainer-g1f6ld-0 hgwIsh StyledBox-sc-13pk1d4-0 gQLnBt"
+          disabled=""
+        >
+          <div
+            class="StyledRadioButton-g1f6ld-4 gVogic StyledBox-sc-13pk1d4-0 kvuUVC"
+          >
+            <input
+              class="StyledRadioButton__StyledRadioButtonInput-g1f6ld-1 bldEoB"
+              data-testid="c2"
+              disabled=""
+              name="radio"
+              type="radio"
+              value="c2"
+            />
+            <div
+              class="StyledRadioButton__StyledRadioButtonBox-g1f6ld-3 lnEyXE StyledBox-sc-13pk1d4-0 ghGSYb"
+            />
+          </div>
+          <span>
+            Choice 2
+          </span>
+        </label>
+        <div
+          class="StyledBox-sc-13pk1d4-0 kFozry"
+        >
+          <span
+            class="StyledText-sc-1sadyjn-0 fWSbXS"
+          >
+            Lorem ipsum dolor sit amet, ei usu recteque constituto.
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="StyledBox-sc-13pk1d4-0 iEPtuR"
+    >
+      <div
+        class="sc-bdVaJa bUODpI StyledBox-sc-13pk1d4-0 erxBvF"
+        data-testid="choice"
+        disabled=""
+      >
+        <label
+          class="StyledRadioButton__StyledRadioButtonContainer-g1f6ld-0 hgwIsh StyledBox-sc-13pk1d4-0 gQLnBt"
+          disabled=""
+        >
+          <div
+            class="StyledRadioButton-g1f6ld-4 gVogic StyledBox-sc-13pk1d4-0 kvuUVC"
+          >
+            <input
+              class="StyledRadioButton__StyledRadioButtonInput-g1f6ld-1 bldEoB"
+              data-testid="c3"
+              disabled=""
+              name="radio"
+              type="radio"
+              value="c3"
+            />
+            <div
+              class="StyledRadioButton__StyledRadioButtonBox-g1f6ld-3 lnEyXE StyledBox-sc-13pk1d4-0 ghGSYb"
+            />
+          </div>
+          <span>
+            Choice 3
+          </span>
+        </label>
+        <div
+          class="StyledBox-sc-13pk1d4-0 kFozry"
+        >
+          <span
+            class="StyledText-sc-1sadyjn-0 fWSbXS"
+          >
+            Lorem ipsum dolor sit amet, ei usu recteque constituto.
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

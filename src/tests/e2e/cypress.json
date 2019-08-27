@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://localhost:3000/",
+  "env": {
+    "adminemail": "admin@carcific.com",
+    "email": "test@bcgdv.com",
+    "password": "Test1234",
+    "REACT_APP_COGNITO_CLIENT_ID": "3ifquk2omsijib0p8nb3c1tbe6",
+    "REACT_APP_COGNITO_USER_POOL_ID": "eu-central-1_u4SyhZeS2"
+  }
+}
