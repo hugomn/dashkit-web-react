@@ -11,11 +11,11 @@ export const HeaderMenu: React.FC<IProps> = ({ active, id, items, label, margin,
     <Box align="start" justify="center" margin={margin}>
       <Button id={id} ref={ref} onClick={toggleShow(show, setShow)}>
         <Box direction="row" justify="start" align="center" pad="small" gap="small">
-          <StyledText size="medium" weight="bold" color={active || show ? "white" : ""}>
+          <StyledText size="medium" weight="bold" color={active || show ? "brand" : ""}>
             {label}
           </StyledText>
           <IconWrapper inverted={show}>
-            <Down color={active || show ? "white" : ""} size="small" />
+            <Down color={active || show ? "brand" : ""} size="small" />
           </IconWrapper>
         </Box>
       </Button>
@@ -24,8 +24,9 @@ export const HeaderMenu: React.FC<IProps> = ({ active, id, items, label, margin,
           id={id ? `${id}__drop` : undefined}
           align={{ top: "bottom" }}
           target={ref.current}
-          onClickOutside={handleClickOutside(setShow)}>
-          <ContainerBox background="dark-2">
+          onClickOutside={handleClickOutside(setShow)}
+          elevation="small">
+          <ContainerBox background="white">
             <Box overflow="auto">{items.map(renderItem(setShow))}</Box>
           </ContainerBox>
         </StyledDrop>

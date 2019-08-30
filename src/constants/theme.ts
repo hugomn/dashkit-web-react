@@ -134,7 +134,7 @@ export default {
   // tslint:disable-next-line: object-literal-sort-keys
   anchor: {
     color: {
-      dark: darkColors[3],
+      dark: darkColors[2],
       light: brandColor
     },
     hover: {
@@ -149,12 +149,12 @@ export default {
   button: {
     border: {
       color: colors.brand,
-      radius: "2px",
+      radius: "4px",
       width: "1px"
     },
     color: {
       dark: lightColors[0],
-      light: colors.brand
+      light: colors.white
     },
     disabled: {
       opacity: 1

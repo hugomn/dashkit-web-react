@@ -3,10 +3,10 @@ import styled from "styled-components";
 import theme from "../../constants/theme";
 
 export const StyledButton = styled(Button)`
-  font-weight: bold;
+  /* font-weight: bold; */
   &:hover {
-    background-color: ${theme.global.colors["dark-3"]};
-    color: white;
+    /* background-color: ${theme.global.colors["dark-3"]}; */
+    /* color: white; */
   }
 `;
 
@@ -27,13 +27,12 @@ export const StyledDrop = styled(Drop)`
     position: absolute;
     top: 10px;
     left: 50%;
-    margin-top: -15px;
+    margin-top: -16px;
     border-width: 6px;
     border-style: solid;
-    border-color: ${theme.global.colors["dark-2"]} ${theme.global.colors["dark-2"]} transparent
-      transparent;
+    border-color: ${theme.global.colors.white} ${theme.global.colors.white} transparent transparent;
     transform: rotate(-45deg);
-    box-shadow: 2px -2px 2px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 1px -2px 2px 0px rgba(0, 0, 0, 0.1);
   }
 `;
 

@@ -3,7 +3,7 @@ import * as React from "react";
 import { useTranslation } from "react-i18next";
 import { Link, matchPath } from "react-router-dom";
 import styled from "styled-components";
-import iconSignout from "../../../assets/img/icons/signout.svg";
+import { ReactComponent as IconSignout } from "../../../assets/img/icons/signout.svg";
 import logoFull from "../../../assets/img/logo-full.svg";
 import HeaderMenu from "../../../components/HeaderMenu/template";
 import { media, visible } from "../../../constants/responsive";
@@ -64,7 +64,7 @@ const Header: React.FunctionComponent<IProps> = ({ isLoggedIn, logout, pathname,
                 logout();
               }}>
               <Box align="center" direction="row" data-testid="signout">
-                <Image src={iconSignout} height="21px" width="21px" />
+                <IconSignout height="21px" width="21px" />
                 <SignoutText>{t("templates.base.header.signout")}</SignoutText>
               </Box>
             </Anchor>
@@ -95,7 +95,7 @@ const ActionsLink = styled.span`
     text-decoration: none;
   }
   &:hover a {
-    color: ${theme.global.colors.white};
+    color: ${theme.anchor.color.light};
   }
 `;
 
