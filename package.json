@@ -35,7 +35,7 @@
   "dependencies": {
     "@sentry/browser": "5.6.2",
     "amazon-cognito-identity-js": "3.0.13",
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "camelcase": "5.3.1",
     "connected-react-router": "6.5.2",
     "core-js": "3.2.1",
