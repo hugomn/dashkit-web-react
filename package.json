@@ -48,7 +48,7 @@
     "immer": "3.2.0",
     "lint-staged": "9.2.3",
     "marked": "0.7.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "polished": "3.4.1",
     "react": "16.9.0",
     "react-app-polyfill": "1.0.2",
